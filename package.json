@@ -23,7 +23,7 @@
   "license": "ISC",
   "dependencies": {
     "glib": "^1.0.2",
-    "mkdirp": "^0.5.5",
+    "mkdirp": "^0.5.6",
     "node-pty": "^0.10.0",
     "xterm": "^4.10.0",
     "xterm-addon-fit": "^0.5.0",
